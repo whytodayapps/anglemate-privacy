@@ -1,9 +1,9 @@
 # Privacy Policy for AngleMate
-Last updated: October 9, 2026
+Last updated: October 11, 2026
 
 This policy explains how **Slava Bell** ("we", "us", or "our") handles information when you use AngleMate for Android or iOS. AngleMate provides bubble level, camera alignment, and screen ruler tools.
 
-Privacy contact: **[sb@iambell.com](mailto:sb@iambell.com)**.
+Privacy contact: **[whytodaysupport@gmail.com](mailto:whytodaysupport@gmail.com)**.
 
 ## 1. Measurements, sensors, and camera access
 AngleMate uses your device's motion and orientation readings, including accelerometer readings, to calculate angles and display level and alignment information. These readings and the resulting measurements are processed on your device. We do not upload them or include them in Analytics or error reports. The app does not maintain a persistent measurement history.
@@ -52,7 +52,7 @@ For requests about provider-held data, see sections 9 and 10.
 This release does not request advertising banners, start advertising consent collection, or process purchases. The Ad Free preview does not charge you or create a paid entitlement. We will review this policy and the store disclosures before introducing advertising or payments in a future release.
 
 ## 7. Information you provide when contacting us
-If you contact **sb@iambell.com**, we receive your email address, message, and any information or attachments you choose to provide. We use them to respond, provide support, and handle privacy requests. Avoid sending sensitive information unless it is needed for your request.
+If you contact **whytodaysupport@gmail.com**, we receive your email address, message, and any information or attachments you choose to provide. We use them to respond, provide support, and handle privacy requests. Avoid sending sensitive information unless it is needed for your request.
 
 ## 8. Service providers and international processing
 When you enable the corresponding sharing choice, Google processes usage information through Firebase Analytics, and Sentry processes error reports. Support communications are handled through the email services used to receive and answer them. We do not send measurement readings or camera previews to these providers.
@@ -75,7 +75,7 @@ We retain support communications for as long as reasonably necessary to address 
 Where an Analytics installation can be identified, Google offers user-data deletion. This does not remove standard aggregated reports, and provider processing is not immediate. Sentry groups events into issues; deleting an issue can affect several reports, so we must check its scope before acting. Neither operation establishes immediate erasure from every provider backup. Information independently controlled by a provider is also subject to that provider's privacy controls and policies.
 
 ## 10. Your privacy rights and identification limits
-Depending on your location and applicable law, you may have rights to access, correct, delete, or obtain a copy of personal information, object to or restrict processing, withdraw consent, or complain to a data protection authority. Contact **[sb@iambell.com](mailto:sb@iambell.com)** about information we hold. We may need enough information to verify and respond to your request.
+Depending on your location and applicable law, you may have rights to access, correct, delete, or obtain a copy of personal information, object to or restrict processing, withdraw consent, or complain to a data protection authority. Contact **[whytodaysupport@gmail.com](mailto:whytodaysupport@gmail.com)** about information we hold. We may need enough information to verify and respond to your request.
 
 We cannot retrieve measurement readings or camera previews that the app never sends to us. Analytics and error reports do not contain an AngleMate account name or your email address, so an email address alone does not identify those records. The app does not currently offer an installation-ID or event-ID export feature. Resetting Analytics data can remove the identifier needed to associate earlier records with your installation.
 
@@ -85,9 +85,9 @@ We will assess whether we can locate the relevant records and explain any identi
 AngleMate uses operating-system app storage and permission controls for local information. Optional Analytics uses encrypted transport, and the app accepts only HTTPS Sentry endpoints. No storage or transmission method can guarantee absolute security.
 
 ## 12. Children's privacy
-AngleMate is a general-purpose measurement utility and is not directed to children under 13. If you believe a child has provided personal information to us, contact **[sb@iambell.com](mailto:sb@iambell.com)** so we can investigate and address the request.
+AngleMate is a general-purpose measurement utility and is not directed to children under 13. If you believe a child has provided personal information to us, contact **[whytodaysupport@gmail.com](mailto:whytodaysupport@gmail.com)** so we can investigate and address the request.
 
 ## 13. Changes and contact
 We may update this policy as AngleMate's features or data practices change. The latest version will be posted on this page with an updated date. We will provide any additional notice or request consent where applicable requirements call for it.
 
-For questions or privacy requests, contact **Slava Bell** at **[sb@iambell.com](mailto:sb@iambell.com)**.
+For questions or privacy requests, contact **Slava Bell** at **[whytodaysupport@gmail.com](mailto:whytodaysupport@gmail.com)**.
