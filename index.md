@@ -1,7 +1,7 @@
 # Privacy Policy for AngleMate
-Last updated: October 11, 2026
+Last updated: October 14, 2026
 
-This policy explains how **Slava Bell** ("we", "us", or "our") handles information when you use AngleMate for Android or iOS. AngleMate provides bubble level, camera alignment, and screen ruler tools.
+This policy explains how **Why Today** ("we", "us", or "our") handles information when you use AngleMate for Android or iOS. AngleMate provides bubble level, camera alignment, and screen ruler tools.
 
 Privacy contact: **[whytodaysupport@gmail.com](mailto:whytodaysupport@gmail.com)**.
 
@@ -42,7 +42,7 @@ This release does not capture native crashes, session replays, logs, performance
 See [Sentry's Privacy Policy](https://sentry.io/privacy/).
 
 ## 5. Changing your sharing choices
-You can change either sharing choice at any time in **App Settings → Optional sharing**. Keeping both off does not limit the measurement tools.
+The first time you open AngleMate, it asks once whether you want to turn on either choice. Both are off in that question and stay off unless you turn them on. You can change either sharing choice at any time in **App Settings → Optional sharing**. Keeping both off does not limit the measurement tools.
 
 Turning usage sharing off disables collection and requests a reset of local Analytics data and its app-instance identifier. Turning error sharing off stops new app-managed reports and cancels pending managed sends. Information already received by a provider is not deleted by these switches. A request already sent cannot be recalled by turning sharing off.
 
@@ -90,4 +90,4 @@ AngleMate is a general-purpose measurement utility and is not directed to childr
 ## 13. Changes and contact
 We may update this policy as AngleMate's features or data practices change. The latest version will be posted on this page with an updated date. We will provide any additional notice or request consent where applicable requirements call for it.
 
-For questions or privacy requests, contact **Slava Bell** at **[whytodaysupport@gmail.com](mailto:whytodaysupport@gmail.com)**.
+For questions or privacy requests, contact **Why Today** at **[whytodaysupport@gmail.com](mailto:whytodaysupport@gmail.com)**.
