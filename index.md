@@ -1,5 +1,5 @@
 # Privacy Policy for AngleMate
-Last updated: October 14, 2026
+Last updated: October 20, 2026
 
 This policy explains how **Why Today** ("we", "us", or "our") handles information when you use AngleMate for Android or iOS. AngleMate provides bubble level, camera alignment, and screen ruler tools.
 
@@ -13,7 +13,7 @@ The Laser Level tool requests camera permission to display a live rear-camera pr
 The flashlight feature uses the device's camera light where available. You can deny or revoke camera permission through your device's app settings; the camera preview will then be unavailable.
 
 ## 2. Local settings and accounts
-AngleMate saves preferences such as measurement precision, smoothing, sound, display options, ruler calibration, and your optional-sharing choices in local app storage. The app does not operate a cloud synchronization service for these settings.
+AngleMate saves preferences such as measurement precision, smoothing, sound, display options, ruler calibration, and your optional-sharing choices in local app storage. The app does not operate a cloud synchronization service for these settings. If you buy Premium, AngleMate also stores whether Premium is active on your device, so it stays active offline.
 
 Your operating system's backup and device-transfer services may include app settings, depending on your device configuration. These services are controlled by your operating system and account settings.
 
@@ -49,7 +49,11 @@ Turning usage sharing off disables collection and requests a reset of local Anal
 For requests about provider-held data, see sections 9 and 10.
 
 ## 6. Advertising and payments
-This release does not request advertising banners, start advertising consent collection, or process purchases. The Ad Free preview does not charge you or create a paid entitlement. We will review this policy and the store disclosures before introducing advertising or payments in a future release.
+**Advertising.** This release does not show advertising banners or start advertising consent collection. We will review this policy and the store disclosures before introducing advertising in a future release.
+
+**Premium.** AngleMate offers an optional one-time Premium purchase that removes advertising once advertising is introduced; this release shows no ads. Purchases are processed by Google Play on Android or the App Store on iOS. You enter payment details in the store's own purchase screen; AngleMate and Why Today never receive your card number or billing details. Google's and Apple's privacy policies apply to that payment.
+
+To confirm that Premium belongs to your store account, AngleMate checks the store's purchase record on your device. It does not send the purchase record to us or to our service providers, and Why Today does not operate a purchase server. Restore purchase asks the store again for your purchases. Refunds are handled by Google Play or Apple; after a refund, Premium is removed the next time the app checks with the store.
 
 ## 7. Information you provide when contacting us
 If you contact **whytodaysupport@gmail.com**, we receive your email address, message, and any information or attachments you choose to provide. We use them to respond, provide support, and handle privacy requests. Avoid sending sensitive information unless it is needed for your request.
@@ -62,7 +66,7 @@ We do not sell your personal information or use optional telemetry for cross-app
 Google, Sentry, and their service providers may process information in countries other than your country of residence. The production Sentry organization uses its **United States** event-data region. Google Analytics processing is not restricted to a Firebase database or storage region. Google's information explains its [international data transfers](https://business.safety.google/adsdatatransfers/) and [Firebase processing locations](https://firebase.google.com/support/privacy).
 
 ## 9. Retention and deletion
-Live measurements and camera previews are used during operation and are not saved as a measurement history or recording. Local preferences remain until changed, app storage is cleared, or the app is removed. Backups or device transfers may retain or restore settings separately.
+Live measurements and camera previews are used during operation and are not saved as a measurement history or recording. Local preferences remain until changed, app storage is cleared, or the app is removed. Backups or device transfers may retain or restore settings separately. The Premium status stored on your device is removed when you clear the app's storage or delete the app. Restore purchase recovers it from your store account.
 
 On Android, you can remove local app data through **Settings → Apps → AngleMate → Storage → Clear storage**, or equivalent device controls. On iOS, deleting the app removes its app container; offloading retains its documents and data. Removing local data does not delete information already received by Google, Sentry, or an email service.
 
